@@ -48,6 +48,6 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ## About the Developer
 
-Wander.co is developed and maintained by [Your Name]. If you have any inquiries or feedback regarding the website, please don't hesitate to contact me at [your email address].
+Wander.co is developed and maintained by Rabab Ahmed. If you have any inquiries or feedback regarding the website, please don't hesitate to contact me at rababahmed0611@gmail.com.
 
 Happy traveling! 🌍✈️🌴
